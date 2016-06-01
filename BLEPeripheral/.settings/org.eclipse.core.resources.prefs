@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/cn/jqj/bleperipheral/blelibrary/bluetooth/BLEAdvertiser.java=UTF-8
+encoding//src/com/cn/jqj/bleperipheral/blelibrary/bluetooth/BLEProfile.java=UTF-8
+encoding//src/com/cn/jqj/bleperipheral/blelibrary/bluetooth/BLEServer.java=UTF-8
+encoding//src/com/cn/jqj/bleperipheral/blelibrary/bluetooth/IBLECallback.java=UTF-16
+encoding//src/com/cn/jqj/bleperipheral/blelibrary/utils/MsgQueue.java=UTF-8
